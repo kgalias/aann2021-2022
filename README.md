@@ -16,7 +16,7 @@ Your final grade will be based on completing the tasks in the notebooks (50%) an
 - 90-100%: 5
 
 ### Tasks
-The solved notebooks have to be handed in either via sharing by Google Drive or as a forked private GitHub repo (which you'll need to give me access to; please also send me a link to the solution every time) until the day of the next class at 12:00.
+The solved notebooks have to be handed in until the day of the next class at 12:00 either via sharing by Google Drive or as a ~~forked private~~ GitHub repo (apparently this is harder than I thought; here's one way: https://stackoverflow.com/questions/10065526/github-how-to-make-a-fork-of-public-repository-private; you can either do this or just clone the repository without making it a fork). Your solutions have to be private to prevent plagiarism from others.
 
 ### Project
 The project will be graded based on compliance with the chosen topic, quality of the code, novelty of the idea, and presentation of the results. Details (along with proposed project topics) are in a separate document.
