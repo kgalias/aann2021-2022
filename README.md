@@ -1,7 +1,11 @@
 # Advanced applications of neural networks (deep learning) @ CogSci UW 2021/2022 winter
 
 ## Basics
-The class takes place on Mondays at 15:30 on Google Meet (the link is sent out before each class). For class we use Jupyter Notebook, which can be run on Google Colab. The notebooks look best locally (GitHub does not render some things), but should also be fine in Google Colab.
+The class takes place on Mondays at 15:30 on Google Meet (the link is sent out before each class). For class we use Jupyter Notebook, which can be run on Google Colab. The notebooks look best locally (GitHub does not render some things), but should also be fine in Google Colab. If imports don't work on Google Colab, do the following in a cell at the top:
+```
+!git clone https://github.com/kgalias/aann2021winter.git
+%cd aann2021winter
+```
 
 ## Attendance
 Attendance is not mandatory (and due to the online nature of the course will not be checked). However, doing the tasks in the notebooks is (more on that below).
