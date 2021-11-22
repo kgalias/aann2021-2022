@@ -216,7 +216,7 @@ def test_dropout(dropout_cls):
 
     for row in out:
         zeros_in_row = len(torch.where(row == 0.)[0])
-        assert zeros_in_row > 0 and zeros_in_row < len(row)
+        assert 0 < zeros_in_row < len(row)
 
     drop_eval = dropout_cls(0.5)
     drop_eval.eval()
